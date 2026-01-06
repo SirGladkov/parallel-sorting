@@ -20,7 +20,7 @@
 - `System.Threading.Thread`
 
 ## Запуск
-1. Открыть файл `WindowsFormsApp7.sln` в Visual Studio 2017+
+1. Открыть файл `ParallelSortingApp.sln` в Visual Studio 2017+
 2. Нажать **F5** или **«Запуск»**
 
 > Проект не требует сторонних зависимостей.
